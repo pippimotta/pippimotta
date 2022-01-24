@@ -1,4 +1,4 @@
-## 🍄 Hello there! I am @pippimotta. 
+## 🍄 Hello there! I am Pippimotta. 
 - 🧦 This name is taken from the splendid character Pippi Longstocking which I loved so much during my childhood.
   I hope I can grow up as her: kind, brave, fearless, and always being curious to new knowledge and this world.
 

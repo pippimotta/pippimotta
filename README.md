@@ -1,10 +1,10 @@
-- 🍄 Hello there! I am @pippimotta. 
-  This name is taken from the splendid character Pippi Longstocking which I loved so much during my childhood.
-  And I hope I can grow up as her: kind, brave, fearless, and always being curious to new knowledge and this world.
-  
-- 👀 I used to study sociology and transcutural studies in 3 countries. Focused on social movements, athropocene and Cyborg feminism. 
+## 🍄 Hello there! I am @pippimotta. 
+- 🧦 This name is taken from the splendid character Pippi Longstocking which I loved so much during my childhood.
+  I hope I can grow up as her: kind, brave, fearless, and always being curious to new knowledge and this world.
+
+- 🧠 I used to study Sociology and Transcutural studies in 3 countries. Focused on social movements, athropocene and Cyborg feminism. 
 - 🌱 But it is coding that helps me reclaim the sense of intergrity and the pleasure of learning.
-- 🙋 I’m looking companions to study coding and data science together.
+- 👀 I’m looking companions to study coding and data science together.
 - 🍂 How to reach me: lingyizh84@gmail.com
 
 <!---

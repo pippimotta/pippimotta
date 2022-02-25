@@ -4,7 +4,7 @@
 
 - 🧠 I used to study Sociology and Transcutural studies in 3 countries. Focused on social movements, athropocene and Cyborg feminism. 
 - 😺 But currently it is coding that helps me reclaim the sense of intergrity and the pleasure of learning.
-- 👀 I’m looking companions to study coding and data science together.
+- 👀 Recently working on algorithm and React
 - 🍂 How to reach me: lingyizh84@gmail.com
 
 <!---

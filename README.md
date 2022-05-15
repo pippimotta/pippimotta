@@ -2,10 +2,11 @@
 - 🧦 This name is taken from the splendid character Pippi Longstocking which I loved so much during my childhood.
   I hope I can grow up as her: kind, brave, fearless, and always being curious to new knowledge and this world.
 
-- 🧠 I used to study Sociology and Transcutural studies in 3 countries. Focused on social movements, athropocene and Cyborg feminism. 
-- 😺 But currently it is coding that helps me reclaim the sense of intergrity and the pleasure of learning.
-- 👀 Recently working on algorithm and React
+- 🧠 I used to study Sociology and Transcutural studies in 3 countries. Focusing on social movements, athropocene and Cyborg feminism. 
+- 😺 But currently it is coding that helps me reclaim the sense of intergrity and the pleasure of learning (as a proud ADHDer)
+- ✏️ Recently working on algorithm and React
 - 🍂 How to reach me: lingyizh84@gmail.com
+
 
 <!---
 pippimotta/pippimotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

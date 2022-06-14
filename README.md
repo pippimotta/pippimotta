@@ -4,7 +4,7 @@
 
 - 🧠 I used to study Sociology and Transcultural studies in 3 countries. Focusing on Social movements, Anthropocene and Cyborg feminism.
 - 😺 But currently it is coding that helps me reclaim the sense of integrity and the pleasure of learning (as a prideful ADHDer)
-- ✏️ Recently working on Algorithm and React
+- ✏️ Recently working on Algorithm and Go
 - 🍂 How to reach me: lingyizh84@gmail.com
 
 
